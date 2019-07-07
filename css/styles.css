@@ -1,0 +1,45 @@
+.nav{
+  position: sticky;
+  float:right;
+  text-decoration: none;
+  background-color:  #0c0d02 ;
+  overflow: hidden;
+}
+.nav a{
+  float: left;
+  color: white;
+  text-align: center;
+  padding:  14px 16px;
+  text-decoration: none;
+  font-size: 18px
+}
+.nav a:hover {
+  background-color: grey;
+  color:lightblue;
+}
+.nav a.active{
+  background-color: red;
+}
+
+.body{
+  background-color: grey;
+}
+.contact{
+  padding-bottom: 10px;
+  position: sticky;
+  padding-left: 160px;
+}
+.picha{
+  padding-right: 100px
+}
+.call{
+  text-align: center;
+  background-color: #7d4747;
+  font-family: serif;
+;
+  padding-bottom: 50px;
+  font-family: sans-serif;
+}
+#p{
+  font-size: 40px;
+}
