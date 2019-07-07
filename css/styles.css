@@ -21,8 +21,10 @@
   background-color: red;
 }
 
-.body{
+.bodi{
   background-color: grey;
+  padding-top: 12px;
+  font-size: 20px
 }
 .contact{
   padding-bottom: 10px;
